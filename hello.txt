@@ -1,3 +1,3 @@
 Hello Git!
-This my second version.
+This line was changed in conflict_branch.
  This is a new feature branch
