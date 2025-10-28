@@ -1,1 +1,2 @@
 This is version from master branch.
+This line was changed in conflict_branch.
